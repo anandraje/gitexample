@@ -12,5 +12,7 @@ private static void displayGreeting(){
 	System.out.println("THIS APP SHOWS SALES DATA");
 	
 	System.out.println("THIS APP SHOWS SALES DATA2");
+	
+	System.out.println("THIS APP SHOWS SALES DATA3");
 }
 }
